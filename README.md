@@ -7,3 +7,4 @@ I'm a software engineer. I'm also interested in animation and game development. 
 - [Mastadon](https://socel.net/@nathanjent)
 - [Replit](https://replit.com/@nathanjent)
 - [itch.io](https://nathanjent.itch.io)
+- [Cara](https://cara.app/nathanjent)
